@@ -2,5 +2,5 @@
     <string name="app_name">Xplorea</string>
     <string name="prompt_lokasi_anda">Lokasi Anda</string>
     <string name="prompt_tujuan_lokasi">Tujuan Lokasi</string>
-    <string name="google_maps_key">AIzaSyAJ34hVFFcjeHD7142Mfkl6uIf8RO8LkLs</string>
+    <string name="google_maps_key">use your own key</string>
 </resources>
